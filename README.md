@@ -9,7 +9,7 @@
 ***
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,java,spring,html,css,js,ts,dotnet,bootstrap,docker,eclipse,angular,nodejs,express,mysql,mongodb,postman,github,git,gitlab&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,java,spring,html,css,bootstrap,js,ts,dotnet,php,bootstrap,docker,eclipse,angular,nodejs,express,mysql,mongodb,postman,github,git,gitlab,idea,linux,powershell,qt,r,visualstudio,vscode,&perline=10)](https://skillicons.dev)
 
 <p align="right">
   <a href="[https://facebook.com/Farxodav.Bekzod](https://www.facebook.com/Mootaz.Vdlz.1)"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
