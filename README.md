@@ -3,7 +3,7 @@
   </p>
 
 ***
-<a align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farbek1503&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> <a align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoetazHajji&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
+<a align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoetazHajji&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> <a align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoetazHajji&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
 ***
 
 ***
