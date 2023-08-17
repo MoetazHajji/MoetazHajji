@@ -14,5 +14,5 @@
 <p align="right">
   <a href="[https://facebook.com/Farxodav.Bekzod](https://www.facebook.com/Mootaz.Vdlz.1)"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
   <a href="[https://instagram.com/bekk1__i503](https://www.instagram.com/mootaz_hajji/)"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="[https://instagram.com/bekk1__i503](https://www.instagram.com/mootaz_hajji/)"><img src="[https://img.shields.io/badge/linkedin%23E4405F.svg?logo=LinkedIn&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://instagram.com/bekk1__i503](https://www.instagram.com/mootaz_hajji/)"><img src="https://img.shields.io/badge/linkedin%23E4405F.svg?logo=LinkedIn&logo=linkedin&logoColor=white" /></a>
 </p>
